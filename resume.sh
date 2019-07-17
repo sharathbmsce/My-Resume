@@ -34,7 +34,7 @@ EOF
 echo "
 Phone  : 7760809079
 E-mail : sharathgowda899@gmail.com
-Github : github.com/sharathbmsce
+Github : https://github.com/sharathbmsce
 "
 
 cat<<"EOF"
